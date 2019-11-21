@@ -1,6 +1,6 @@
 # google-homepage
 
-In this project im just familiarizing myself with the concepts of html and css.
+In this project im just familiarizing myself with the concepts of html and css i just made myself familiar with.
 I tried to create a basic version of google homepage (not a working model) by using basic html and css.
 
 
